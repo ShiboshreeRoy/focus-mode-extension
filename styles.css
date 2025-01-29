@@ -1,0 +1,29 @@
+body {
+    width: 300px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    background: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  button:hover {
+    background: #27ae60;
+  }
+  
+  .block-message {
+    text-align: center;
+    padding: 50px;
+    color: #e74c3c;
+  }
