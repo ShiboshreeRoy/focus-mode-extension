@@ -1,6 +1,10 @@
 
 ```markdown
-# Focus Mode Pro 🚀
+
+## Focus Mode Pro 🚀
+## Author: Shiboshree Roy
+## Date: 2025-01-29
+## Version: 1.0.0
 
 A Chrome extension that helps you stay productive by blocking distracting websites during work hours. Take control of your browsing habits and boost your productivity!
 
