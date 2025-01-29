@@ -1,5 +1,4 @@
 
-```markdown
 
 ## Focus Mode Pro 🚀
 ## Author: Shiboshree Roy
