@@ -1,5 +1,6 @@
 
 
+
 ## Focus Mode Pro 🚀
 ## Author: Shiboshree Roy
 ## Date: 2025-01-29
@@ -7,7 +8,7 @@
 
 A Chrome extension that helps you stay productive by blocking distracting websites during work hours. Take control of your browsing habits and boost your productivity!
 
-![Extension Preview](./images/Focus Mode Pro.png) *// Create a 'screenshots' folder and add images*
+![Extension Preview](./images/Focus Mode Pro.png)
 
 ## Features ✨
 - Block popular distracting websites by default
