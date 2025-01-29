@@ -7,7 +7,7 @@
 
 A Chrome extension that helps you stay productive by blocking distracting websites during work hours. Take control of your browsing habits and boost your productivity!
 
-![Extension Preview](../focus-mode-extension/images/Focus%20Mode%20Pro.png) *// Create a 'screenshots' folder and add images*
+![Extension Preview](./images/Focus Mode Pro.png) *// Create a 'screenshots' folder and add images*
 
 ## Features ✨
 - Block popular distracting websites by default
